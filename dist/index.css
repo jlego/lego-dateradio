@@ -1,0 +1,8 @@
+.lego-dateradio .lego-chkgroup {
+  display: inline-block; }
+
+.lego-dateradio .lego-datepicker {
+  width: 70%;
+  margin-left: 10px;
+  display: inline-block;
+  vertical-align: middle; }
